@@ -2,6 +2,20 @@
 
 RAG-Chatbot mit Next.js: Beantwortet Fragen aus hochgeladenen Dokumenten (PDF, TXT, Markdown) und ruft dynamische Daten per Tool Calling ab. Hybrid Search (Vector + Full-Text), Streaming-Antworten, Conversation History.
 
+## Screenshots
+
+| Chat | Dokumente |
+|------|-----------|
+| ![Chat](screenshots/Screenshot_20260222_124808.png) | ![Dokumente](screenshots/Screenshot_20260222_124849.png) |
+
+| Chat mit Antwort | Dokumenten-Upload |
+|------------------|-------------------|
+| ![Chat mit Antwort](screenshots/Screenshot_20260222_125115.png) | ![Upload](screenshots/Screenshot_20260222_124856.png) |
+
+| Tool-Antwort | Login |
+|--------------|-------|
+| ![Tool](screenshots/Screenshot_20260222_125413.png) | ![Login](screenshots/Screenshot_20260222_125429.png) |
+
 ## Quick Start
 
 **Voraussetzungen:** Node.js 20+, Docker & Docker Compose
