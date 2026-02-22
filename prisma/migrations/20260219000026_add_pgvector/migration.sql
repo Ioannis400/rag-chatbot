@@ -1,0 +1,4 @@
+CREATE EXTENSION IF NOT EXISTS vector;
+
+ALTER TABLE "Chunk" 
+    ADD COLUMN IF NOT EXISTS "embeddings" vector(1536)
