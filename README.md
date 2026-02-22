@@ -4,17 +4,29 @@ RAG-Chatbot mit Next.js: Beantwortet Fragen aus hochgeladenen Dokumenten (PDF, T
 
 ## Screenshots
 
-| Chat | Dokumente |
-|------|-----------|
-| ![Chat](screenshots/Screenshot_20260222_124808.png) | ![Dokumente](screenshots/Screenshot_20260222_124849.png) |
+<p align="center">
+  <img src="screenshots/Screenshot_20260222_124808.png" width="700" alt="Login">
+</p>
 
-| Chat mit Antwort | Dokumenten-Upload |
-|------------------|-------------------|
-| ![Chat mit Antwort](screenshots/Screenshot_20260222_125115.png) | ![Upload](screenshots/Screenshot_20260222_124856.png) |
+<p align="center">
+  <img src="screenshots/Screenshot_20260222_124849.png" width="700" alt="Chat">
+</p>
 
-| Tool-Antwort | Login |
-|--------------|-------|
-| ![Tool](screenshots/Screenshot_20260222_125413.png) | ![Login](screenshots/Screenshot_20260222_125429.png) |
+<p align="center">
+  <img src="screenshots/Screenshot_20260222_124856.png" width="700" alt="Dokumente">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot_20260222_125115.png" width="700" alt="Chat mit Antwort">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot_20260222_125413.png" width="700" alt="Tool-Antwort">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot_20260222_125429.png" width="700" alt="Dokumenten-Upload">
+</p>
 
 ## Quick Start
 
